@@ -1,6 +1,6 @@
 # PRODIGY_WD_03
 
-Here’s your **GitHub README** for the **Tic-Tac-Toe Web App**, following the format you provided:  
+
 
 ---
 
